@@ -2,7 +2,7 @@
 
 
 
-<img align="center" style="margin-bottom:100px; object-fit: contain; border: 2px solid black;" width="100%" src="[https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif](https://media.discordapp.net/attachments/858077621769994271/957649775564558383/20220325_100559.jpg?ex=66b42f9a&is=66b2de1a&hm=d8ecfa89fea612d18f36408d592fb0c16ff920ae3612b91899e3c7672727bcd5&=&format=webp&width=550&height=220)" />
+<img align="center" style="margin-bottom:100px; object-fit: contain; border: 2px solid black;" width="100%" src="[[https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif](https://media.discordapp.net/attachments/858077621769994271/957649775564558383/20220325_100559.jpg?ex=66b42f9a&is=66b2de1a&hm=d8ecfa89fea612d18f36408d592fb0c16ff920ae3612b91899e3c7672727bcd5&=&format=webp&width=550&height=220)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2Fbanner-discord--683913893422513013%2F&psig=AOvVaw01CIiUPc_x7uFEAhSsCnOZ&ust=1724499909315000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIC2x8OEi4gDFQAAAAAdAAAAABAE)" />
 
 
 <img align="center" style="margin-bottom:100px; object-fit: contain; border: 2px solid black;" width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
